@@ -1,0 +1,82 @@
+C:\Users\Олег\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Олег\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Олег\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Олег\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Олег\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Олег\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Олег\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Олег\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM2-main\Flight\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM2-main\Flight\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM2-main\Flight\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM2-main\Flight\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM2-main\Flight\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM2-main\Flight\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM2-main\Flight\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM2-main\Flight\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM2-main\Flight\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM2-main\Flight\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Лекции\3 курс\Им.мод\IM.931902.basargina.anastasia.lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\zadir\Desktop\IM.931902.basargina.anastasia.lab13-main\IM.931902.basargina.anastasia.lab13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\zadir\Desktop\IM.931902.basargina.anastasia.lab13-main\IM.931902.basargina.anastasia.lab13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\zadir\Desktop\IM.931902.basargina.anastasia.lab13-main\IM.931902.basargina.anastasia.lab13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\zadir\Desktop\IM.931902.basargina.anastasia.lab13-main\IM.931902.basargina.anastasia.lab13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\zadir\Desktop\IM.931902.basargina.anastasia.lab13-main\IM.931902.basargina.anastasia.lab13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zadir\Desktop\IM.931902.basargina.anastasia.lab13-main\IM.931902.basargina.anastasia.lab13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\zadir\Desktop\IM.931902.basargina.anastasia.lab13-main\IM.931902.basargina.anastasia.lab13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\zadir\Desktop\IM.931902.basargina.anastasia.lab13-main\IM.931902.basargina.anastasia.lab13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\zadir\Desktop\IM.931902.basargina.anastasia.lab13-main\IM.931902.basargina.anastasia.lab13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\zadir\Desktop\IM.931902.basargina.anastasia.lab13-main\IM.931902.basargina.anastasia.lab13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\zadir\Desktop\IM.931902.basargina.anastasia.lab13-main\IM.931902.basargina.anastasia.lab13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM.931902.basargina.anastasia.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

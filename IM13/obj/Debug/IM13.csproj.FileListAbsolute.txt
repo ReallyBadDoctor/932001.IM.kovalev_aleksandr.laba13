@@ -1,0 +1,22 @@
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM13\bin\Debug\IM13.exe.config
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM13\bin\Debug\IM13.exe
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM13\bin\Debug\IM13.pdb
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.csproj.AssemblyReference.cache
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.csproj.SuggestedBindingRedirects.cache
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.Form1.resources
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.Properties.Resources.resources
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.csproj.GenerateResource.cache
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.csproj.CoreCompileInputs.cache
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.exe
+C:\Users\zadir\Desktop\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.pdb
+C:\Users\Alexandr\Downloads\Имитационное моделирование\IM13\IM13\bin\Debug\IM13.exe.config
+C:\Users\Alexandr\Downloads\Имитационное моделирование\IM13\IM13\bin\Debug\IM13.exe
+C:\Users\Alexandr\Downloads\Имитационное моделирование\IM13\IM13\bin\Debug\IM13.pdb
+C:\Users\Alexandr\Downloads\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Downloads\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandr\Downloads\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.Form1.resources
+C:\Users\Alexandr\Downloads\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.Properties.Resources.resources
+C:\Users\Alexandr\Downloads\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.csproj.GenerateResource.cache
+C:\Users\Alexandr\Downloads\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Downloads\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.exe
+C:\Users\Alexandr\Downloads\Имитационное моделирование\IM13\IM13\obj\Debug\IM13.pdb
